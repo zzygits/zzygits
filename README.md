@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Zhenyi 👋
 
-<!--
-**zzygits/zzygits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building AI applications for banking, finance, and enterprise automation (and having fun along the way!).
 
-Here are some ideas to get you started:
+## Current Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 AI Equity Research Copilot
+
+### Tech Stack
+
+- Python
+- Streamlit
+- GPT-5.5
+- LangGraph
+- GitHub
+- SQL
+
+## Currently Learning
+
+- AI Agents
+- RAG
+- Azure AI
+- Financial AI
